@@ -17,38 +17,33 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler_view"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/recycler_view" />
+            android:layout_height="wrap_content" />
 
         <com.google.android.material.bottomappbar.BottomAppBar
+            android:id="@+id/appBar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
             app:backgroundTint="@color/colorPrimary"
             app:fabAlignmentMode="center"
             app:fabCradleMargin="10dp"
-            app:hideOnScroll="true"
             app:fabCradleRoundedCornerRadius="10dp"
+            app:hideOnScroll="true"
             app:menu="@menu/menu_bottom_bar"
-            app:navigationIcon="@drawable/ic_menu"
 
-            android:id="@+id/appBar"/>
+            app:navigationIcon="@drawable/ic_menu" />
+
         <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/fab"
-            android:src="@drawable/ic_add"
-            android:overScrollMode="ifContentScrolls"
             android:backgroundTint="@color/colorPrimary"
-
-            app:layout_anchor="@id/appBar"/>
+            android:overScrollMode="ifContentScrolls"
+            android:src="@drawable/ic_add"
+            app:layout_anchor="@id/appBar" />
 
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
-
-
-
-
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>

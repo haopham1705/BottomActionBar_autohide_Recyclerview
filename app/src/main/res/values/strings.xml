@@ -1,3 +1,74 @@
 <resources>
     <string name="app_name">Floatingactionbutton_autohide</string>
+    <!--  List Country  -->
+    <string-array name="arr_countries">
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+        <item>Vietnam</item>
+    </string-array>
+    <!--Description-->
+    <string-array name="arr_countries_description">
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+        <item>Republic Socialist of Vietnam</item>
+    </string-array>
+
 </resources>
